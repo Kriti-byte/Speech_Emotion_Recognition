@@ -3,7 +3,7 @@ Project Highlights:
 
 Data Acquisition and Preparation:
 
- -Utilized the Kaggle API to download the TESS dataset, containing over 2800 audio files with various emotional labels.
+ -Utilized the Kaggle API to download the TESS dataset, containing over 2800 audio files with various emotional labels.  
 
  -Preprocessed the audio data using librosa, a Python package for audio and music analysis, to visualize waveforms and spectrograms of the different emotions.
  
